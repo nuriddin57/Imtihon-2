@@ -1,0 +1,735 @@
+@media (max-width: 1240px) {
+     .Scrollbar__card {
+          width: 300px;
+     }
+
+     .scrollbar__text {
+          font-size: 14px;
+     }
+
+     .grid__links {
+          font-size: 18px;
+     }
+
+     .grid__link {
+          font-size: 10px;
+     }
+}
+
+@media (max-width: 1150px) {
+     .box-img {
+          width: 400px;
+     }
+
+     .inner__card {
+          width: 300px;
+          height: 460px;
+          padding: 15px;
+     }
+
+     .inner__card img {
+          width: 270px;
+     }
+
+     .inner__btn {
+          width: 120px;
+          height: 30px;
+          font-size: 14px;
+          margin-top: 25px;
+     }
+
+     .inner__title {
+          font-size: 16px;
+          padding-top: 15px;
+     }
+
+     .inner__text {
+          font-size: 12px;
+          padding-top: 15px;
+     }
+
+     .iconka {
+          width: 10px;
+     }
+
+     .inner__link {
+          font-size: 8px;
+     }
+
+     .footer-card img {
+          width: 120px;
+     }
+
+     .ftr__text {
+          font-size: 12px;
+     }
+
+     .dis__link {
+          font-size: 8px;
+     }
+}
+
+@media (max-width: 1000px) {
+     .boxs-inner {
+          display: grid;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+     }
+
+     header {
+          height: 900px;
+     }
+
+     .boxs-img {
+          margin-top: 30px;
+          width: 400px;
+     }
+
+     .Scrollbar__card {
+          width: 240px;
+          height: 250px;
+     }
+
+     .Scrollbar__card img {
+          width: 100px;
+     }
+
+     .scrollbar__text {
+          font-size: 10px;
+     }
+
+     .grid__links {
+          font-size: 14px;
+     }
+
+     .Scrollbar__flex img {
+          width: 40px;
+     }
+
+
+
+     .inner__card {
+          width: 200px;
+          height: 320px;
+          padding: 10px;
+     }
+
+     .inner__card img {
+          width: 180px;
+     }
+
+     .inner__btn {
+          width: 80px;
+          height: 25px;
+          font-size: 8px;
+          margin-top: 18px;
+     }
+
+     .inner__title {
+          font-size: 10px;
+          line-height: 15px;
+          padding-top: 10px;
+     }
+
+     .inner__text {
+          font-size: 8px;
+          line-height: 15px;
+          padding-top: 10px;
+     }
+
+     .iconka {
+          width: 6px;
+     }
+
+     .inner__link {
+          font-size: 6px;
+     }
+
+     .input-text {
+          font-size: 30px;
+     }
+
+     .input {
+          width: 400px;
+     }
+
+     .icon button {
+          width: 170px;
+          height: 60px;
+          font-size: 20px;
+          left: 220px;
+     }
+
+}
+
+@media (max-width: 925px) {
+     .box__main {
+          height: 800px;
+     }
+}
+
+@media (max-width: 850px) {
+     .burger {
+          display: block;
+          position: absolute;
+          right: 0;
+          padding: 0 180px;
+     }
+
+     .header-ul {
+          display: none;
+     }
+
+     .card {
+          width: 280px;
+          height: 250px;
+          padding: 20px 15px;
+          margin-top: 40px;
+     }
+
+     .flex-img img {
+          width: 50px;
+     }
+
+     .card-text {
+          font-size: 22px;
+     }
+
+     .card__text {
+          font-size: 10px;
+     }
+
+     .box-text {
+          font-size: 25px;
+     }
+
+     .box-title {
+          font-size: 12px;
+     }
+
+     .card-title {
+          font-size: 12px;
+     }
+
+     .Okay__item {
+          margin-top: 15px;
+          gap: 10px;
+          display: flex;
+          font-size: 12px;
+     }
+
+     .logo-it {
+          font-size: 12px;
+     }
+
+     .box {
+          height: 500px;
+          padding: 50px 0;
+     }
+
+     .input-text {
+          font-size: 26px;
+     }
+
+     .input {
+          width: 300px;
+     }
+
+     .icon button {
+          width: 100px;
+          height: 60px;
+          font-size: 16px;
+          left: 190px;
+     }
+}
+
+@media (max-width: 800px) {
+     .Scrollbar {
+          height: 900px;
+     }
+
+     .absolute {
+          display: none;
+     }
+
+     .file {
+          height: 200px;
+          padding: 20px 20px;
+     }
+
+     .file__item {
+          font-size: 30px;
+     }
+
+     .file__text {
+          font-size: 18px;
+     }
+
+     .flexs__link {
+          font-size: 14px;
+     }
+
+     .flexs li:hover {
+          padding: 4px 0;
+          text-align: center;
+          width: 130px;
+          height: 35px;
+          border-radius: 10px;
+     }
+
+     .flexs li:hover:nth-child(1) {
+          width: 33px;
+          height: 32px;
+     }
+
+     .footer-card img {
+          width: 100px;
+     }
+
+     .ftr__text {
+          font-size: 9px;
+     }
+
+     .ftr__link {
+          font-size: 16px;
+     }
+
+     .footer-card {
+          display: grid;
+     }
+
+     br {
+          display: none;
+     }
+
+     .media {
+          width: 30px;
+     }
+
+     .dis__link {
+          font-size: 7px;
+     }
+
+     .dis {
+          gap: 15px;
+     }
+
+     .dis__link img {
+          width: 20px;
+     }
+
+     footer {
+          height: 330px;
+     }
+}
+
+@media (max-width: 780px) {
+     .box-inner {
+          display: grid;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+     }
+
+     .box {
+          height: 700px;
+          padding: 50px 0;
+     }
+
+     .Okay {
+          display: none;
+     }
+
+     .box-img {
+          margin-top: 70px;
+     }
+
+     .box__main {
+          height: 900px;
+     }
+}
+
+@media (max-width: 670px) {
+     .inner__card {
+          width: 150px;
+          height: 270px;
+          padding: 8px;
+     }
+
+     .inner__card img {
+          width: 130px;
+     }
+
+     .inner__btn {
+          width: 70px;
+          height: 20px;
+          margin-top: 10px;
+     }
+
+     .inner__title {
+          font-size: 8px;
+          padding-top: 10px;
+     }
+
+     .inner__text {
+          font-size: 6px;
+          line-height: 15px;
+          padding-top: 10px;
+     }
+
+     .iconka {
+          width: 5px;
+     }
+
+     .inner__link {
+          font-size: 4px;
+     }
+
+     .file__in {
+          height: 300px;
+          padding: 50px 40px;
+          display: grid;
+          justify-content: center;
+     }
+
+     .icons {
+          text-align: center;
+     }
+
+     .input {
+          width: 300px;
+          height: 40px;
+     }
+
+     .icon button {
+          width: 120px;
+          height: 40px;
+          font-size: 12px;
+          left: 170px;
+     }
+
+     .ftr__link {
+          font-size: 14px;
+     }
+
+     .ftr__text {
+          font-size: 8px;
+     }
+
+     .dis__link img {
+          width: 12px;
+     }
+
+     .media {
+          width: 15px;
+     }
+
+     footer {
+          height: 280px;
+          padding: 50px 0;
+     }
+}
+
+@media (max-width: 625px) {
+     .card {
+          width: 200px;
+          height: 230px;
+          padding: 20px 10px;
+          margin-top: 40px;
+     }
+
+     .flex-img img {
+          width: 40px;
+     }
+
+     .card-text {
+          font-size: 18px;
+     }
+
+     .card__text {
+          font-size: 8px;
+     }
+
+     .card-title {
+          font-size: 10px;
+     }
+
+     .file {
+          height: 180px;
+     }
+
+     .file__item {
+          font-size: 25px;
+     }
+
+     .file__text {
+          font-size: 16px;
+     }
+
+     .flexs__link {
+          font-size: 10px;
+     }
+
+     .flexs li:hover {
+          width: 84px;
+          height: 30px;
+     }
+
+     .flexs li:hover:nth-child(1) {
+          height: 30px;
+     }
+}
+
+@media (max-width: 555px) {
+     .Scrollbar {
+          height: 1200px;
+     }
+
+     .box__main {
+          height: 1000px;
+     }
+
+     .Scrollbar__inner {
+          justify-content: center;
+     }
+
+     .ftr__link {
+          font-size: 12px;
+     }
+}
+
+@media (max-width: 500px) {
+     .header-inner img {
+          width: 120px;
+     }
+
+     .burger {
+          padding: 0 130px;
+     }
+
+     .heder-btn {
+          width: 100px;
+     }
+
+     .boxs-text {
+          font-weight: 600;
+          font-size: 25px;
+          line-height: 30px;
+     }
+
+     .boxs-title {
+          font-weight: 500;
+          font-size: 12px;
+          line-height: 20px;
+     }
+
+     .header-btn {
+          padding: 0 10px;
+          gap: 0px;
+          font-size: 14px;
+          width: 130px;
+          height: 35px;
+     }
+
+     header {
+          height: 750px;
+     }
+
+     .boxs-img {
+          margin-top: 30px;
+          width: 350px;
+     }
+
+     .cards__inner {
+          justify-content: center;
+     }
+
+     .cards-logo {
+          font-size: 12px;
+     }
+
+     .cards-text {
+          font-size: 25px;
+     }
+
+     .file__item {
+          font-size: 18px;
+     }
+
+     .file__text {
+          font-size: 12px;
+     }
+
+     .icons img {
+          width: 50px;
+     }
+
+     .mains {
+          height: 950px;
+     }
+
+     .flexs li:hover {
+          display: none;
+     }
+
+     .footer-card img {
+          width: 80px;
+     }
+}
+
+@media (max-width: 406px) {
+     br {
+          display: none;
+     }
+
+     .Colums__inner img {
+          width: 300px;
+     }
+
+     .box-img {
+          width: 300px;
+     }
+
+     .box {
+          height: 600px;
+     }
+
+     .box__main {
+          height: 950px;
+     }
+
+     .file__item {
+          font-size: 16px;
+     }
+
+     .file__text {
+          font-size: 8px;
+     }
+
+     .icons img {
+          width: 30px;
+     }
+
+     .top {
+          width: 1.5px;
+     }
+
+     footer {
+          height: 330px;
+     }
+
+     .tr {
+          height: 1px;
+     }
+
+     .dis__link {
+          gap: 2px;
+          font-size: 6px;
+     }
+}
+
+@media (max-width: 350px) {
+     .header-inner img {
+          width: 120px;
+     }
+
+     .burger {
+          padding: 0 100px;
+     }
+
+     .Colums__inner img {
+          width: 250px;
+     }
+
+     .heder-btn {
+          width: 80px;
+          height: 30px;
+          font-size: 8px;
+     }
+
+     .boxs-text {
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 30px;
+     }
+
+     .boxs-title {
+          font-weight: 500;
+          font-size: 8px;
+          line-height: 20px;
+     }
+
+     .header-btn {
+          font-size: 12px;
+          width: 100px;
+          height: 30px;
+     }
+
+     .boxs-img {
+          width: 300px;
+     }
+
+     .inner__card {
+          margin-top: 40px;
+     }
+
+     .mains__inner {
+          justify-content: center;
+     }
+
+     .mains {
+          height: 1220px;
+     }
+
+     .input-text {
+          font-size: 16px;
+     }
+
+     .input {
+          width: 220px;
+          padding: 10px 10px;
+          font-size: 10px;
+     }
+
+     .icon button {
+          width: 80px;
+          height: 30px;
+          font-size: 8px;
+          left: 135px;
+     }
+
+     .file__in {
+          height: 200px;
+     }
+
+     .input-it {
+          font-size: 10px;
+     }
+}
+
+@media (max-width: 309px) {
+     .box-img {
+          width: 220px;
+     }
+
+     .boxs-img {
+          width: 220px;
+     }
+
+     .box {
+          height: 600px;
+     }
+
+     .bx__img {
+          justify-content: center;
+     }
+
+     footer {
+          height: 350px;
+     }
+
+     .dis {
+          gap: 3px;
+     }
+}

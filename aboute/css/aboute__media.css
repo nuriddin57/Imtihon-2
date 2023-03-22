@@ -1,0 +1,680 @@
+@media (max-width: 1350px) {
+     .Colums__inner img {
+          width: 300px;
+     }
+
+     .inputs__text {
+          font-size: 28px;
+     }
+
+     .input {
+          width: 200px;
+     }
+
+     .input__flex {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 14px;
+          margin-top: 14px;
+     }
+
+     .input-height {
+          width: 415px;
+          height: 50px;
+     }
+
+     .inputs__flex img {
+          width: 470px;
+     }
+
+     .amile__card {
+          width: 300px;
+          height: 230px;
+          padding: 15px 18px;
+     }
+
+     .amile__link {
+          font-size: 18px;
+     }
+
+     .amile__title {
+          font-size: 25px;
+     }
+
+}
+
+@media (max-width: 1200px) {
+     .boxs-img {
+          width: 400px;
+     }
+
+     .hover-card {
+          width: 250px;
+          height: 334px;
+     }
+
+     .hover-card img {
+          width: 250px;
+     }
+}
+
+@media (max-width: 1150px) {
+     .card {
+          width: 154px;
+          height: 180px;
+     }
+
+     .card img {
+          width: 54px;
+     }
+
+     .box-text {
+          font-size: 30px;
+     }
+
+     .card-title {
+          font-size: 14px;
+     }
+
+     .box-card {
+          width: 160px;
+          height: 150px;
+     }
+
+     .box__title {
+          font-size: 35px;
+     }
+
+     .box__text {
+          font-size: 16px;
+     }
+
+     .hover-card:nth-child(3) {
+          display: none;
+     }
+
+
+     .Scrollbar__card {
+          width: 380px;
+          height: 250px;
+          padding: 30px 60px;
+     }
+
+     .worl {
+          font-size: 20px;
+     }
+
+     .white {
+          font-size: 12px;
+     }
+
+     .scrollbar__text {
+          margin-top: 20px;
+          font-size: 14px;
+     }
+
+     .absolute-link img {
+          width: 100px;
+     }
+
+     .hover__flex:nth-child(3) {
+          margin-top: 30px;
+     }
+
+     .hover__card {
+          width: 400px;
+     }
+
+}
+
+@media (max-width: 1000px) {
+     .Colums__inner img {
+          width: 200px;
+     }
+
+     .input {
+          width: 160px;
+          height: 40px;
+          font-size: 12px;
+     }
+
+     .input-height {
+          width: 335px;
+          height: 50px;
+     }
+
+     .inputs__flex img {
+          width: 450px;
+     }
+
+     .amile__card {
+          width: 220px;
+          height: 180px;
+     }
+
+     .amile__flex img {
+          width: 60px;
+     }
+
+     .amile__link {
+          font-size: 14px;
+     }
+
+     .amile__title {
+          font-size: 18px;
+     }
+
+     .amile {
+          font-size: 16px;
+     }
+
+     .imges__flex img {
+          width: 130px;
+     }
+}
+
+@media (max-width: 925px) {
+     .Scrollbar__card {
+          width: 320px;
+          height: 250px;
+          padding: 40px 30px;
+     }
+
+     .absolute img {
+          position: relative;
+          width: 60px;
+          left: -70px;
+     }
+
+     .worl {
+          padding-left: 20px;
+     }
+
+     .white {
+          padding-left: 20px;
+     }
+
+     .hover__flex:nth-child(3) {
+          margin-top: 30px;
+     }
+
+     .hover__card {
+          width: 350px;
+          height: 280px;
+     }
+
+     .hover__flex img {
+          width: 70px;
+     }
+
+     .grey {
+          font-size: 14px;
+     }
+
+
+     .box-text {
+          font-size: 25px;
+     }
+
+     .card {
+          width: 130px;
+          height: 150px;
+          margin-top: 50px;
+          padding: 15px 0;
+     }
+
+     .card__text {
+          font-size: 12px;
+     }
+
+     .box__card {
+          gap: 15px;
+     }
+
+     .box-card {
+          width: 130px;
+          height: 120px;
+          padding: 10px 0;
+     }
+
+     .box__title {
+          font-size: 30px;
+     }
+
+     .ftr__text {
+          font-size: 12px;    
+     }
+     
+     .ftr__link {
+          font-size: 25px;    
+     }
+     
+     .footer__ul {
+          margin-top: 12px;
+     }
+     
+     .footer__ul li {
+     margin-top: 8px;
+     }
+     
+     .footer__itame {
+          font-size: 12px;
+     }
+     
+     
+     .footer__text {
+          font-size: 12px;    
+     }
+     
+     .footer__input {
+     margin-top: 16px;
+     }
+     
+     .TextField {
+          width: 120px;
+          height: 40px;
+          padding: 0 10px;
+     }
+
+     .footer-card:nth-child(1) img{
+          width: 140px;
+     }
+     
+}
+
+@media (max-width: 850px) {
+
+     .boxs {
+          height: 500px;
+     }
+
+     .boxs-text {
+          font-size: 28px;
+          line-height: 40px;
+     }
+
+     .boxs-title {
+          font-size: 12px;
+     }
+
+     .header-btn {
+          font-size: 14px;
+          width: 100px;
+          height: 40px;
+     }
+
+
+     .card-title {
+          font-size: 12px;
+     }
+
+     .card-title:nth-child(3) {
+          display: none;
+     }
+
+     .card-title:nth-child(6) {
+          display: none;
+     }
+
+     .logo-it {
+          font-size: 10px;
+     }
+
+     .box {
+          height: 650px;
+          padding: 80px 0;
+     }
+
+     .hover-card {
+          margin-top: 50px;
+          width: 200px;
+          height: 300px;
+     }
+
+     .hover-card img {
+          width: 200px;
+     }
+
+     .hover-title {
+          font-size: 16px;
+     }
+
+
+     .flexs__link {
+          font-size: 16px;
+     }
+
+     .flexs__links {
+          font-size: 16px;
+     }
+
+
+     .input {
+          width: 130px;
+     }
+
+     .inputs__text {
+          font-size: 24px;
+     }
+
+     .input-height {
+          width: 275px;
+          height: 40px;
+     }
+
+     .inputs__flex img {
+          width: 350px;
+     }
+
+}
+
+@media (max-width: 800px) {
+     .boxs-img {
+          width: 300px;
+     }
+}
+
+@media (max-width: 780px) {
+     .Scrollbar__card {
+          width: 280px;
+          height: 200px;
+          padding: 40px 20px;
+     }
+
+     .absolute img {
+          width: 50px;
+          top: -20px;
+          left: -50px;
+     }
+
+     .worl {
+          font-size: 16px;
+     }
+
+     .white {
+          font-size: 12px;
+     }
+
+     .scrollbar__text {
+          font-size: 13px;
+     }
+
+     .hover__card {
+          width: 300px;
+          height: 250px;
+     }
+
+     .hover__flex img {
+          display: none;
+     }
+
+     .hover__flex:nth-child(2) {
+          margin-top: 0;
+     }
+}
+
+@media (max-width: 720px) {
+     .burger {
+          display: block;
+     }
+
+     .header-ul {
+          display: none;
+     }
+
+     .flex {
+          display: flex;
+          gap: 20px;
+     }
+
+     .box__card {
+          gap: 15px;
+     }
+
+
+     .box-card {
+          width: 90px;
+          height: 120px;
+          padding: 10px 0;
+     }
+
+     .hover-card:nth-child(3) {
+          display: block;
+     }
+
+     .box__title {
+          font-size: 20px;
+     }
+}
+
+@media (max-width: 670px) {
+     .Scrollbar__card {
+          width: 230px;
+          height: 250px;
+          padding: 50px 20px;
+     }
+
+     .absolute img {
+          width: 40px;
+          top: -20px;
+          left: -40px;
+     }
+
+     .hover__card {
+          width: 280px;
+          height: 230px;
+     }
+
+     .absolute-link img {
+          width: 70px;
+     }
+
+     .grey {
+          font-size: 12px;
+          padding-top: 10px;
+     }
+
+     .inputs__flex {
+          display: grid;
+          justify-content: center;
+          text-align: center;
+          gap: 50px;
+     }
+
+     .input {
+          width: 275px;
+     }
+
+     .input__flex {
+          display: grid;
+          justify-content: center;
+     }
+
+     .margin__top {
+          margin-top: 50px;
+     }
+
+     .imges__flex img {
+          width: 80px;
+     }
+}
+
+@media (max-width: 625px) {
+
+     .boxs-text {
+          font-size: 24px;
+          line-height: 30px;
+     }
+
+     .box {
+          height: 1100px;
+     }
+
+     br {
+          display: none;
+     }
+
+     .box__card {
+          margin-top: 50px;
+          display: grid;
+          justify-content: center;
+     }
+
+     .box-card {
+          width: 200px;
+          height: 130px;
+          padding: 30px 0;
+     }
+
+     .box-card.box-card:nth-child(2) {
+          margin-top: 30px;
+     }
+
+     .box__title {
+          font-size: 30px;
+     }
+
+     .box-card:nth-child(2) {
+          margin-top: 0px;
+     }
+
+     .box-inner {
+          display: grid;
+          text-align: center;
+          justify-content: center;
+     }
+
+     .boxs-title {
+          font-size: 10px;
+     }
+
+     .header-btn {
+          font-size: 12px;
+          width: 100px;
+          height: 40px;
+     }
+
+     .boxs-img {
+          width: 200px;
+     }
+
+     .card__inner {
+          display: grid;
+          text-align: center;
+          justify-content: center;
+          gap: 30px;
+     }
+
+     .Scrollbar__card {
+          height: 200px;
+     }
+
+     footer {
+          height: 850px;
+     }
+
+     .footer__inner {
+          display: grid;
+          gap: 50px;
+     }
+
+}
+
+@media (max-width: 555px) {
+     .Scrollbar__inner {
+          display: grid;
+          justify-content: center;
+     }
+
+}
+
+@media (max-width: 500px) {
+     .sam {
+          width: 130px;
+     }
+
+     header {
+          height: 70px;
+     }
+
+     .heder-btn {
+          width: 100px;
+     }
+
+     .boxs {
+          padding: 50px 0;
+     }
+
+     .boxs-inner {
+          display: grid;
+          text-align: center;
+          justify-content: center;
+          gap: 30px;
+     }
+
+     .hover-card {
+          width: 150px;
+          height: 234px;
+     }
+
+     .hover-card img {
+          width: 150px;
+     }
+
+     .grid__inner {
+          justify-content: center;
+     }
+
+     .imges__flex img {
+          width: 50px;
+     }
+}
+
+@media (max-width: 406px) {
+     .boxs-text {
+          font-size: 18px;
+     }
+
+     .boxs-title {
+          font-size: 14px;
+     }
+}
+
+@media (max-width: 350px) {
+     .heder-btn {
+          width: 80px;
+          height: 30px;
+          font-size: 8px;
+     }
+
+     .hover-card {
+          width: 120px;
+          height: 224px;
+     }
+
+     .hover-card img {
+          width: 120px;
+     }
+
+     .input {
+          width: 230px;
+     }
+
+     .inputs__flex img {
+          width: 280px;
+     }
+
+     .input-height {
+          width: 230px;
+     }
+
+     .imges__flex img {
+          width: 30px;
+     }
+
+     .margin__top {
+          margin-top: 30px;
+     }
+}
+
+@media (max-width: 309px) {}
