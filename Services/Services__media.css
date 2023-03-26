@@ -1,0 +1,468 @@
+@media (max-width: 1230px) {
+     .inner__card {
+          width: 640px;
+          height: 700px;
+     }
+
+     .inner__card:last-child {
+          width: 640px;
+          height: 20px;
+     }
+
+     .inner__card img {
+          width: 640px;
+     }
+
+     .inner__title {
+          font-size: 28px;
+     }
+
+     .inner__text {
+          font-size: 14px;
+     }
+
+     .inner__btn {
+          width: 130px;
+          height: 40px;
+          font-size: 16px;
+     }
+
+}
+
+@media (max-width: 1130px) {
+     .inner__card {
+          width: 550px;
+          height: 700px;
+     }
+
+     .inner__card:last-child {
+          width: 550px;
+     }
+
+     .inner__card img {
+          width: 550px;
+     }
+
+     .inner__title {
+          padding-left: 20px;
+          font-size: 24px;
+     }
+
+     .inner__text {
+          padding-left: 20px;
+          font-size: 14px;
+     }
+
+     .inner__btn {
+          margin-left: 20px;
+     }
+
+     .iconka {
+          width: 15px;
+     }
+
+     .input {
+          width: 280px;
+          height: 50px;
+          font-size: 14px;
+          background: url("../albom/Our__images/search.png") right center /20px;
+          background-repeat: no-repeat;
+     }
+
+     .amile__card {
+          width: 280px;
+          height: 450px;
+          gap: 1px;
+          margin-top: 10px;
+          padding: 20px 14px;
+     }
+
+     .amile__title {
+          font-size: 20px;
+     }
+
+     .amile img {
+          width: 50px;
+          height: 50px;
+     }
+
+     .amile__link {
+          font-size: 16px;
+     }
+
+     .flex__card {
+          width: 280px;
+          height: 310px;
+          padding: 20px 14px;
+     }
+
+     .flex__amile {
+          margin-top: 20px;
+     }
+
+     .flex__link {
+          font-size: 16px;
+     }
+
+     .Tags__card {
+          width: 280px;
+          height: 250px;
+          padding: 20px 14px;
+     }
+
+     .Tags__link {
+          font-size: 14px;
+     }
+
+}
+
+@media (max-width: 930px) {
+     .inner__card {
+          width: 420px;
+          height: 630px;
+     }
+
+     .inner__card:last-child {
+          width: 420px;
+     }
+
+     .inner__card img {
+          width: 420px;
+     }
+
+     .inner__title {
+          font-size: 20px;
+     }
+
+     .inner__text {
+          font-size: 13px;
+     }
+
+     .inner__link {
+          font-size: 12px;
+          padding-left: 1px;
+     }
+
+     .inner__btn {
+          width: 110px;
+          font-size: 14px;
+     }
+
+     .iconka {
+          width: 10px;
+     }
+     
+     .input {
+          width: 200px;
+          height: 40px;
+          background: url("../albom/Our__images/search.png") right center /20px;
+          background-repeat: no-repeat;
+     }
+
+     .amile__card {
+          width: 200px;
+          height: 380px;
+          padding: 15px 12px;
+     }
+
+     .amile img {
+          width: 35px;
+          height: 35px;
+     }
+
+     .amile__link {
+          font-size: 12px;
+     }
+
+     .flex__card {
+          width: 200px;
+          height: 310px;
+          padding: 15px 12px;
+     }
+
+     .flex__amile {
+          margin-top: 15px;
+     }
+
+     .flex__amile:nth-child(2) {
+          margin-top: 25px;
+     }
+
+     .flex__link {
+          font-size: 14px;
+     }
+
+     .border {
+          width: 20px;
+          height: 20px;
+          padding: 2px 0;
+          font-size: 12px;    
+     }
+
+     .Tags__card {
+          width: 200px;
+          height: 180px;
+          padding: 15px 12px;
+     }
+
+     .Tags__link {
+          font-size: 8.1px;
+     }
+
+     
+     .ftr__text {
+          font-size: 12px;    
+     }
+     
+     .ftr__link {
+          font-size: 25px;    
+     }
+     
+     .footer__ul {
+          margin-top: 12px;
+     }
+     
+     .footer__ul li {
+     margin-top: 8px;
+     }
+     
+     .footer__itame {
+          font-size: 12px;
+     }
+     
+     
+     .footer__text {
+          font-size: 12px;    
+     }
+     
+     .footer__input {
+     margin-top: 16px;
+     }
+     
+     .TextField {
+          width: 120px;
+          height: 40px;
+          padding: 0 10px;
+     }
+
+     .footer-card:nth-child(1) img{
+          width: 140px;
+     }  
+}
+
+@media (max-width: 740px) {
+     .sam {
+          width: 100px;
+     }
+
+     .logo-item {
+          font-size: 12px;
+     }
+
+     .flex img{
+          width: 20px;
+     }
+
+     .header__section {
+          height: 300px;
+          padding: 100px;
+     }
+
+     .header-text {
+          font-size: 30px;
+     }
+
+     .header-title {
+          font-size: 12px;
+     }
+}
+
+@media (max-width: 700px) {
+     .inner__card {
+          width: 320px;
+          height: 510px;
+     }
+
+     .inner__card:last-child {
+          width: 320px;
+     }
+
+     .inner__card img {
+          width: 320px;
+     }
+
+     .inner__title {
+          font-size: 16px;
+     }
+
+     .inner__text {
+          font-size: 10px;
+     }
+
+     .inner__link {
+          font-size: 9px;
+          padding-left: 1px;
+     }
+
+     .inner__btn {
+          width: 80px;
+          height: 30px;
+          font-size: 11px;
+     }
+
+     .btns {
+          width: 35px;
+          height: 35px;
+          font-size: 10px;
+     }
+
+     .btn {
+          width: 35px;
+          height: 35px;
+          font-size: 10px;
+     }
+
+     .input {
+          width: 150px;
+          height: 30px;
+          background: url("../albom/Our__images/search.png") right center /16px;
+          background-repeat: no-repeat;
+     }
+
+     .amile__card {
+          width: 150px;
+          height: 380px;
+          padding: 15px 10px;
+     }
+
+     .amile img {
+          width: 30px;
+          height: 30px;
+     }
+
+     .amile__link {
+          font-size: 9px;
+     }
+
+     .flex__card {
+          width: 150px;
+          height: 240px;
+     }
+
+     .flex__link {
+          font-size: 10px;
+     }
+
+     .border {
+          width: 20px;
+          height: 20px;
+          padding: 3px 0;
+          font-size: 10px;    
+     }
+
+     .Tags__card {
+          width: 150px;
+          height: 180px;
+     }
+
+     .Tags__amile {
+          gap: 7px;
+     }
+
+     .Tags__link {
+          padding: 3px;
+          font-size: 8px;
+     }
+}
+
+@media (max-width: 625px) {
+     footer {
+          height: 890px;
+     }
+
+     .footer__inner {
+          display: grid;
+          gap: 50px;
+     }
+}
+
+@media (max-width: 550px) {
+     .sam {
+          width: 80px;
+     }
+
+     .logo-item {
+          font-size: 9px;
+     }
+
+     .header__section {
+          height: 250px;
+          padding: 80px;
+     }
+
+     .header-text {
+          font-size: 26px;
+     }
+
+     .header-title {
+          font-size: 10px;
+     }
+
+     .inner__card {
+          width: 100%;
+          height: 530px;
+     }
+
+     .inner__card:nth-last-child(2) {
+          width: 100%;
+          height: 460px;
+     }
+
+     .inner__card:last-child {
+          width: 100%;
+          margin-top: -50px;
+     }
+
+     .inner__card img {
+          width: 100%;
+     }
+
+     .cards__inner {
+          display: grid;
+          justify-content: center;
+          gap: 160px;
+     }
+
+     .inputs__cards {
+          display: grid;
+          justify-content: center;
+     }
+
+     .input {
+          width: 100%;
+     }
+
+     .amile__card {
+          width: 100%;
+          height: 380px;
+          padding: 15px 10px;
+     }
+
+     .flex__card {
+          width: 100%;
+     }
+
+     .Tags__card {
+          width: 100%;
+     }
+}
+
+@media (max-width: 450px) {
+     .logo-item {
+          display: none;
+     }
+
+     .burger {
+          display: block;
+     }
+}
